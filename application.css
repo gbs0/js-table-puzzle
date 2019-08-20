@@ -6,6 +6,10 @@ body {
   height: 100vh;
 }
 
+.red {
+  background-color: red;
+}
+
 table {
   border: 15px solid black;
   background: black;
